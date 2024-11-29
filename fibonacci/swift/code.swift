@@ -1,3 +1,4 @@
+import Foundation
 @main
 struct Main {
     static func fibonacci(_ n: Int) -> Int {
